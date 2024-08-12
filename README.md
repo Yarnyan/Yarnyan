@@ -6,7 +6,7 @@
 
 ## Мой стек 🚀
 
-<img width="50px" src="icons/javascript-color.svg"> <img width="50px" src="icons/html5-color.svg"> <img width="50px" src="icons/css3-color.svg"> <img width="50px" src="icons/sass-color.svg"> <img width="50px" src="icons/react-color.svg"> <img width="50px" src="icons/redux-color.svg"> <img width="50px" src="icons/typescript-color.svg"> <img width="50px" src="icons/icons/next-js-icon-512x512-zuauazrk.png">
+<img width="50px" src="icons/javascript-color.svg"> <img width="50px" src="icons/html5-color.svg"> <img width="50px" src="icons/css3-color.svg"> <img width="50px" src="icons/sass-color.svg"> <img width="50px" src="icons/react-color.svg"> <img width="50px" src="icons/redux-color.svg"> <img width="50px" src="icons/typescript-color.svg"> <img width="50px" src="icons/next-js-icon">
 
 ## Коммерческий опыт 💵
 
