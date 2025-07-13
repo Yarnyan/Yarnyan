@@ -4,13 +4,11 @@
 
 В работе использую стек **JavaScript/TypeScript**, **React (включая React Native)**, **Redux**, а также **современные UI-библиотеки** вроде **MUI** и **Chakra UI**. Это позволяет мне создавать интерфейсы, которые не только **отвечают требованиям заказчика**, но и обеспечивают **высокий уровень удобства для конечного пользователя**.
 
-
 ## Мой стек 
 
 <img width="50px" src="icons/javascript-color.svg"> <img width="50px" src="icons/html5-color.svg"> <img width="50px" src="icons/css3-color.svg"> <img width="50px" src="icons/sass-color.svg"> <img width="50px" src="icons/react-color.svg"> <img width="50px" src="icons/redux-color.svg"> <img width="50px" src="icons/typescript-color.svg">
 
 ## Коммерческий опыт
-
 
 За время своей профессиональной карьеры я успешно реализовал **множество проектов различного масштаба и сложности**, работая с **разнообразным стеком технологий**. Мой опыт охватывает как **небольшие сайты с минимальным функционалом**, так и **сложные многопользовательские системы**, включая **веб-админки** и **платформы с внедрением искусственного интеллекта**.
 
@@ -29,27 +27,28 @@
 
 ## About me 
 
-Hello! I am Nikita, a professional web developer based in Russia. I specialize in creating high-quality, intuitive and technologically advanced digital solutions for business. In my work, I use a modern technology stack, including Redux, React(ts/js), React Native, as well as high-level component libraries such as React MUI and React Select, which allows me to achieve impeccable interface quality.
+Hello! My name is **Nikita** — I am a **web developer from Russia** with **3.5 years of commercial experience**. I specialize in creating **modern digital solutions for business** that are **user-friendly**, **intuitive**, and **visually appealing**.
 
-My expertise is focused on developing convenient, aesthetically pleasing and functional user interfaces that not only meet customer requirements, but also ensure maximum end-user satisfaction.
+I work with a stack that includes **JavaScript/TypeScript**, **React (including React Native)**, **Redux**, and **modern UI libraries** such as **MUI** and **Chakra UI**. This allows me to build interfaces that not only **meet client requirements** but also deliver a **high level of usability for the end user**.
 
 ## My stack 
 
 <img width="50px" src="icons/javascript-color.svg"> <img width="50px" src="icons/html5-color.svg"> <img width="50px" src="icons/css3-color.svg"> <img width="50px" src="icons/sass-color.svg"> <img width="50px" src="icons/react-color.svg"> <img width="50px" src="icons/redux-color.svg"> <img width="50px" src="icons/typescript-color.svg">
+
 ## Commercial experience 
 
-Experience: 3.5 years in commercial development
+Throughout my professional career, I have successfully delivered **numerous projects of various scale and complexity**, working with a **diverse technology stack**. My experience includes both **small-scale websites with minimal functionality** and **complex multi-user systems**, including **web admin panels** and **platforms with artificial intelligence integration**.
 
-During my professional career, I have successfully implemented many projects of varying scale and complexity, working with a diverse technology stack. My experience covers both small sites with minimal functionality and complex multi-user systems, including web admin panels and platforms with the implementation of artificial intelligence.
+**Key achievements and areas of expertise:**
 
-**Key achievements and areas of work:**
+1.  **Development of simple websites**: Creating **landing pages**, websites for **small businesses**, and **representational pages**.
+    
+2.  **Complex web platforms**: Designing and developing **multifunctional admin panels**, **corporate portals**, and **content management systems**.
+    
+3.  **Multi-user applications**: Building **high-load solutions** that support **simultaneous usage by a large number of users**.
+    
+4.  **AI integration**: Implementing **machine learning algorithms** and **artificial intelligence** to **automate processes** and **enhance user experience**.
+    
+5.  **Mobile applications**: Developing **cross-platform mobile solutions** that ensure **seamless interaction on any device**.
 
- 1. Development of simple sites: Creation of landing pages, sites for
-    small businesses and representative pages.
- 2. Complex web platforms: Design and implementation of multifunctional
-    admin panels, corporate portals and content management systems.
- 3. Multi-user applications: Development of high-load solutions with
-    support for the simultaneous work of a large number of users.
- 4. AI integration: Implementation of machine learning algorithms and artificial intelligence to automate processes and improve user experience.
- 5. Mobile applications: Creation of cross-platform mobile solutions that provide convenient interaction on any device.
 
